@@ -1,0 +1,36 @@
+[
+  {
+    "id" : 1,
+    "name": "john Doe",
+    "age":28,
+    "company":"xyz.com",
+    "phone":"444-555-666"
+  },
+  {
+    "id" : 2,
+    "name": "Mary Smith",
+    "age":29,
+    "company":"design.com",
+    "phone":"888-555-666"
+  },
+  {
+    "id" : 3,
+    "name": "Jane williams",
+    "age":30,
+    "company":"development.com",
+    "phone":"999-777-666"
+  },
+  {
+    "id" : 4,
+    "name": "Price charles",
+    "age":32,
+    "company":"testing.com",
+    "phone":"333-222-666"
+  },{
+    "id" : 5,
+    "name": "Queen Victory",
+    "age":25,
+    "company":"add.com",
+    "phone":"000-444-666"
+  }
+]

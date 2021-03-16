@@ -1,0 +1,3 @@
+Simple Demo For AJAX 
+AJAX is abbreviation of Asynchronous javascript xml 
+now xml is obsoleate instead JSON is send or recieve as request/response.
